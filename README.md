@@ -1,2 +1,3 @@
 Simple Todo List.
-For UI : TailWind css
+<br>
+<b>For UI </b>: TailWind css
